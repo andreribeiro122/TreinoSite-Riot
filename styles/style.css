@@ -139,7 +139,6 @@ a {
   display: flex;
   align-items: center;
   height: 25px;
-  width: 140px;
 }
 
 .riot-span a:hover {
